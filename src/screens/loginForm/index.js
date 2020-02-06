@@ -19,7 +19,9 @@ const {
 } = require('./style');
 
 const LoginForm = ({ navigation }) => {
-  const { navigate } = navigation;
+  const handleOnPress = () => {
+    navigation.push('Register');
+  }
 
   return (
     <ImageBackground source={whatssBackground} style={backgroundImg}>
@@ -36,7 +38,7 @@ const LoginForm = ({ navigation }) => {
           </View>
           <View style={registerView}>
             <Text>Ainda não tem cadastro? </Text>
-            <TouchableHighlight onPress={() => navigate('Register')}>
+            <TouchableHighlight onPress={() => handleOnPress}>
               <Text style={{ color: 'blue' }}>Cadastre-se</Text>
             </TouchableHighlight>
           </View>
