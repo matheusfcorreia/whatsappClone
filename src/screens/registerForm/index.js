@@ -15,6 +15,7 @@ const {
 } = require('./style');
 
 const RegisterForm = ({ navigation }) => {
+  const { navigate } = navigation;
   return (
     <ImageBackground source={whatssBackground} style={backgroundImg}>
       <View style={mainView}>
@@ -27,7 +28,7 @@ const RegisterForm = ({ navigation }) => {
         </View>
         <View style={loginScreen}>
           <Text>Ja tem uma conta? </Text>
-          <TouchableHighlight onPress={navigation.navigate('Login')}>
+          <TouchableHighlight onPress={() => navigate('Login')}>
             <Text style={{ color: 'blue' }}>Entrar</Text>
           </TouchableHighlight>
         </View>

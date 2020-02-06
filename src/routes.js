@@ -5,18 +5,18 @@ import LoginForm from './screens/loginForm/index';
 import RegisterForm from './screens/registerForm/index';
 
 const stack = createStackNavigator({
+  Register: {
+    screen: RegisterForm,
+    navigationOptions: {
+      headerShown: false
+    }
+  },
   Login: {
     screen: LoginForm,
     navigationOptions: {
       headerShown: false
     }
   },
-  Register: {
-    screen: RegisterForm,
-    navigationOptions: {
-      headerShown: false
-    }
-  }
 }, {
   defaultNavigationOptions: {
 
