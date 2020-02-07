@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/matheusfcorreia/Área de Trabalho/curso-React-Native/app8/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/home/matheus/Desktop/whatsappClone/whatsappClone/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/matheusfcorreia/.gradle/caches/transforms-2/files-2.1/e0f9e79bfd2daa166b926f3e630a4b73/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/home/matheus/.gradle/caches/transforms-2/files-2.1/81e11fe8b82428d0a6bca34d6a7444e5/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/matheus/.gradle/caches/transforms-2/files-2.1/ff7c888739983a510a28c1351404cbce/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -20,16 +30,6 @@
                         "endLines": "10,11,12,13,14,15,17,18,19,23",
                         "endColumns": "59,69,70,71,57,57,10,63,62,10",
                         "endOffsets": "666,736,807,879,937,995,1104,1168,1231,1403"
-                    }
-                },
-                {
-                    "source": "/home/matheusfcorreia/.gradle/caches/transforms-2/files-2.1/88c976c9b8b67143f02ab3e1c1cbc02e/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]

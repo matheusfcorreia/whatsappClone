@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/matheusfcorreia/Área de Trabalho/curso-React-Native/app8/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/home/matheus/Desktop/whatsappClone/whatsappClone/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
-                    "source": "/home/matheusfcorreia/.gradle/caches/transforms-2/files-2.1/88c976c9b8b67143f02ab3e1c1cbc02e/res/values-am/values-am.xml",
+                    "source": "/home/matheus/.gradle/caches/transforms-2/files-2.1/81e11fe8b82428d0a6bca34d6a7444e5/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/matheusfcorreia/.gradle/caches/transforms-2/files-2.1/81d42fddd10c1a664fe816e0865f6f8f/res/values-am/values-am.xml",
+                    "source": "/home/matheus/.gradle/caches/transforms-2/files-2.1/933bece08349ca046601bd50b9679fcd/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

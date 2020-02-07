@@ -1,4 +1,4 @@
-#Mon Feb 03 20:49:44 BRT 2020
-base.0=/home/matheusfcorreia/Área de Trabalho/curso-React-Native/app8/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Fri Feb 07 09:20:57 BRT 2020
+base.0=/home/matheus/Desktop/whatsappClone/whatsappClone/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

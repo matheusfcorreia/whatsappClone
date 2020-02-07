@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/matheusfcorreia/Área de Trabalho/curso-React-Native/app8/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/home/matheus/Desktop/whatsappClone/whatsappClone/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/matheusfcorreia/.gradle/caches/transforms-2/files-2.1/88c976c9b8b67143f02ab3e1c1cbc02e/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/home/matheus/.gradle/caches/transforms-2/files-2.1/81e11fe8b82428d0a6bca34d6a7444e5/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
